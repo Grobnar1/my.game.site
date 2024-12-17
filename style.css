@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(255, 235, 200);
+}
+h1{
+    text-align: center;
+}
+.game-card{
+    display: inline-block;
+    width: 18%;
+    margin: 10px;
+    background-color: rgb(255, 246, 231);
+    border-radius: 10px;
+    text-align: center;
+}
+.game-img{
+    width: 100%;
+    border-radius: 10px;
+}
